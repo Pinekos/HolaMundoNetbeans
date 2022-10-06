@@ -1,0 +1,2 @@
+He instalado el paquete NetBeans 15 x64 en el SO de Windows,
+no he tenido problemas.
